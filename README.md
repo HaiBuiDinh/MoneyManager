@@ -12,13 +12,6 @@ In the application used:
 
 Features: Log in with Facebook, ...
 
-## Color Reference
-
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Main Color | ![#8B1BE5](https://via.placeholder.com/10/8B1BE5?text=+) #8B1BE5 |
-| Sub Color | ![#981DE9](https://via.placeholder.com/10/981DE9?text=+) #981DE9 |
-
 ## Related
 
 Here are some related projects
@@ -36,6 +29,13 @@ Here are some related projects
 ## APK
 
 * [MoneyManager.apk](https://github.com/HaiBuiDinh/MoneyManager/tree/master/docs/MoneyManagerFirebase.apk)
+
+## Color Reference
+
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Main Color | ![#8B1BE5](https://via.placeholder.com/10/8B1BE5?text=+) #8B1BE5 |
+| Sub Color | ![#981DE9](https://via.placeholder.com/10/981DE9?text=+) #981DE9 |
 
 ## Feedback
 
